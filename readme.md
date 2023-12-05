@@ -1,12 +1,11 @@
-## shoes_and_apparel-ims
 # Software Developement
-
+### shoes_and_apparel-ims
 **Task: Group 4** <br>
-**Shoes and Apparel Inventory System** <br>
-Leader <br>
+**Shoes and Apparel Inventory System** <br><br>
+**Leader** <br>
 Jerome Encinares <br>
 
-Members <br>
+**Members** <br>
 Emmar Del Monte <br>
 JazzMar Solas <br>
 Andrea Dingcong Nery <br>
@@ -25,8 +24,8 @@ Prince Derick Ompoc <br>
 **Product** <br>
 ~~Create Product~~ ✔ <br>
 ~~Read Product~~ ✔ <br>
-Update Product <br>
-Delete Product <br>
+~~Update Product~~ ✔ <br>
+~~Delete Product~~ ✔ <br>
 
 **Category** <br>
 ~~Create Category~~ ✔ <br>
@@ -34,23 +33,23 @@ Delete Product <br>
 ~~Display Categories~~ ✔ <br>
 
 ~~Display User~~ ✔ <br>
-Update User <br>
-Delete User <br>
+~~Update User~~ ✔ <br>
+~~Delete User~~ ✔ <br>
 ~~Edit Profile -> update~~ ✔ <br>
 
 ~~Check User Log Details~~ ✔ <br>
 
 **Main** <br>
 ~~System Flow User~~ ✔ <br>
-System Flow Admin <br>
+~~System Flow Admin~~ ✔ <br>
 
 ~~Login System~~ ✔ <br>
 ~~User Registration~~ ✔ username, email, contact validation <br>
 
 **Debug** <br>
-Debug, Runtime Errors ✔  <br>
-Optimize codes, reuse method if possible ✔  <br>
-Add Stock Dynamically ✔  <br>
+~~Debug, Runtime Errors~~ ✔  <br>
+~~Optimize codes, reuse method if possible~~ ✔  <br>
+~~Add Stock Dynamically~~ ✔  <br>
 
 ~~Restock Details~~ ✔  <br>
 ~~Log Reports All~~  ✔  <br>
