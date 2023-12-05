@@ -1,4 +1,4 @@
-# Software Developement
+# Software Development
 ### shoes_and_apparel-ims
 **Task: Group 4** <br>
 **Shoes and Apparel Inventory System** <br><br>
